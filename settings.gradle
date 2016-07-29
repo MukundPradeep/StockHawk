@@ -1,0 +1,2 @@
+include ':app', ':WilliamChart'
+//project(':achartengine').projectDir = new File('libs/achartengine')

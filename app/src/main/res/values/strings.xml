@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">Stock Hawk</string>
+
+  <string name="action_example">Example action</string>
+
+  <string name="action_settings" translatable="false" >Settings</string>
+  <string name="action_change_units" translatable="false">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+  <string name="widget_title">Today\'s Market</string>
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_stock_detail">StockDetailActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+  <string name="addStockDescription">Adds a stock to the application</string>
+
+  <string name="empty_list">This app requires an internet connection to provide relevant data</string>
+</resources>
